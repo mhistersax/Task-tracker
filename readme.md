@@ -38,7 +38,7 @@ A simple Command Line Interface (CLI) application built using Node.js to help yo
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone <git clone https://mhistarsax-admin@bitbucket.org/olupelumi/oluwapelumis-task-tracker.git>
+   git clone https://github.com/mhistersax/Task-tracker.git
    cd task-tracker
    ```
 
