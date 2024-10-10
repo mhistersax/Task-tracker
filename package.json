@@ -1,0 +1,19 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "Build a CLI app to track your tasks and manage your to-do list.",
+  "main": "task.js",
+  "scripts": {
+    "start": "node task.js",
+    "add": "node task.js add",
+    "list": "node task.js list",
+    "delete": "node task.js delete",
+    "status": "node task.js status",
+    "update": "node task.js update"
+  },
+  "author": "Bamigboye Oluwapelumi",
+  "license": "MIT",
+  "dependencies": {
+    "task-tracker": "file:"
+  }
+}
