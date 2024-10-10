@@ -2,6 +2,11 @@
 
 A simple Command Line Interface (CLI) application built using Node.js to help you track, manage, and organize tasks. Tasks can be added, updated, deleted, and their status can be modified (e.g., `pending`, `inprogress`, `done`). The tasks are stored in a JSON file located in the project directory.
 
+## Project URL
+
+For more details and roadmap, visit the project page:  
+[Task Tracker Roadmap](https://roadmap.sh/projects/task-tracker)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -142,7 +147,3 @@ This project is licensed under the MIT License.
 
 - Ensure that tasks are saved in `tasks.json`, which is automatically created in the root directory.
 - The application uses Node.js's native `fs` module to interact with the JSON file, ensuring task persistence.
-
----
-
-This **README** provides clear instructions on how to set up and use your Task Tracker CLI project. Let me know if you need further customization!
